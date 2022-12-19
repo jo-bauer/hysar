@@ -1,0 +1,9 @@
+numpy
+json
+pickle
+codecs
+pandas
+argparse
+pympler
+theano
+scikit-learn

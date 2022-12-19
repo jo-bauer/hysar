@@ -1,0 +1,7 @@
+The datasets can be found in the following links:
+
+Diginetica: competitions.codalab.org/competitions/11161#learn_the_details_data2
+Retailrocket: kaggle.com/datasets/retailrocket/ecommerce-dataset
+
+The respective data needs to be placed in the "raw" subdirectories of each dataset.
+The same logic applies to new datasets.
